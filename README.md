@@ -27,6 +27,14 @@ Hola! Soy María, una apasionada del desarrollo web. Me encanta aprender nuevas 
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+### CMS y herramientas web
+![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WOOCOMMERCE-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/ELEMENTOR-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+
+### IDEs
+![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Diseño y edición
+![Filmora](https://img.shields.io/badge/FILMORA-00B4FF?style=for-the-badge&logo=wondershare&logoColor=white)
