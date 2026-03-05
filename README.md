@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy María!
 
-## Desarrollador Full Stack
+## Desarrolladora Full Stack y Tecnica informatica
 
 ### 🧑‍💻 Sobre mí
 Hola! Soy María, una apasionada del desarrollo web. Me encanta aprender nuevas tecnologías, experimentar con herramientas modernas y crear soluciones que aporten valor.
